@@ -1,0 +1,11 @@
+{
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        },
+        "editor.quickSuggestionsDelay": 1,
+        "editor.suggestOnTriggerCharacters": true,
+    },
+}
