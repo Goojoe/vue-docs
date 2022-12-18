@@ -10,7 +10,7 @@ export default hopeTheme({
         url: "https://docs.goojoe.top",
     },
 
-    iconAssets: "iconfont",
+    iconAssets: "//at.alicdn.com/t/c/font_3831176_zzzxxj59vi.css",
 
     //   左上角logo
     logo: "/logo.png",
