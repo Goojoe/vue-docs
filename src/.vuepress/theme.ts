@@ -17,7 +17,7 @@ export default hopeTheme({
 
     repo: "Goojoe/vue-docs",
 
-    docsDir: "demo/theme-docs/src",
+    docsDir: "/",
 
     pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
