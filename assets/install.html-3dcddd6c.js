@@ -1,9 +1,0 @@
-import{aP as a,Q as l,S as o,U as e,ad as t,af as r,aQ as s,D as i}from"./framework-339c481e.js";const d={},m=e("h1",{id:"python镜像",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#python镜像","aria-hidden":"true"},"#"),t(" Python镜像")],-1),c={href:"https://registry.npmmirror.com/binary.html?path=python",target:"_blank",rel:"noopener noreferrer"},u=s(`<ul><li>python 3.9.13</li></ul><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>set dl=&quot;https://suo.yt/SXOCilf&quot;
-set name=&quot;python3.9.13.exe&quot;
-curl -L -o python3.9.13.exe %dl% &amp;&amp; python3.9.13.exe /quiet InstallAllUsers=1 PrependPath=1 &amp;&amp; echo &quot;正在安装&quot; &amp;&amp; reg add HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem /v LongPathsEnabled /t REG_DWORD /d 1 /f &amp;&amp; exit
-
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul><li>python 3.10.8</li></ul><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>set dl=&quot;https://registry.npmmirror.com/-/binary/python/3.10.8/python-3.10.8-amd64.exe&quot;
-set name=&quot;python3.10.8.exe&quot;
-curl -L -o %name% %dl% &amp;&amp; %name% /quiet InstallAllUsers=1 PrependPath=1 &amp;&amp; echo &quot;正在安装%name%&quot; &amp;&amp; reg add HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem /v LongPathsEnabled /t REG_DWORD /d 1 /f &amp;&amp; exit
-
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,4);function p(h,v){const n=i("ExternalLinkIcon");return l(),o("div",null,[m,e("p",null,[e("a",c,[t("淘宝"),r(n)])]),u])}const x=a(d,[["render",p],["__file","install.html.vue"]]);export{x as default};
