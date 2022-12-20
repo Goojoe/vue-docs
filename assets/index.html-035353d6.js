@@ -1,0 +1,1 @@
+import{aP as e,V as t,W as n,X as o}from"./framework-2a18b220.js";const s={},c=o("p",null,"bat,powershell一些代码什么的",-1),_=[c];function a(l,r){return t(),n("div",null,_)}const i=e(s,[["render",a],["__file","index.html.vue"]]);export{i as default};
