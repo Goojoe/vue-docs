@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-    hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+    hostname: "https://docs.goojoe.top",
 
     author: {
         name: "咕咕乔",
@@ -78,7 +78,19 @@ export default hopeTheme({
         //   provider: "Waline",
         //   serverURL: "https://vuepress-theme-hope-comment.vercel.app",
         // },
-
+        components: {
+            // 你想使用的组件
+            components: [
+                "AudioPlayer",
+                "Badge",
+                "BiliBili",
+                "CodePen",
+                "PDF",
+                "StackBlitz",
+                "VideoPlayer",
+                "YouTube",
+            ],
+        },
         // Disable features you don’t want here
         mdEnhance: {
             align: true,
