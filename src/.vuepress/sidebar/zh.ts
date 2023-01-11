@@ -12,4 +12,5 @@ export const zhSidebar = sidebar({
     "/": "structure",
     "/windows": "structure",
     "/lang": "structure",
+    "/linux": "structure",
 });
