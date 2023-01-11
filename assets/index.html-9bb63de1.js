@@ -1,0 +1,1 @@
+import{aP as a,V as t,W as n,X as e,ad as c}from"./framework-2a18b220.js";const r={},s=e("h1",{id:"linux-软件安装",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#linux-软件安装","aria-hidden":"true"},"#"),c(" linux 软件安装")],-1),o=[s];function d(i,_){return t(),n("div",null,o)}const h=a(r,[["render",d],["__file","index.html.vue"]]);export{h as default};
